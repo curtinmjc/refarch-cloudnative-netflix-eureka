@@ -1,7 +1,7 @@
 .gradle
 build/
 target/
-*.jar
+# MJC *.jar
 .DS_Store
 
 # Ignore Gradle GUI config
